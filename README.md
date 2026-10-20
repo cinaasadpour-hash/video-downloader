@@ -51,3 +51,20 @@ Install updates over the existing app to retain local settings and records. ای
 ## Components
 
 The app uses [youtubedl-android](https://github.com/yausername/youtubedl-android), [yt-dlp](https://github.com/yt-dlp/yt-dlp), and [FFmpeg](https://ffmpeg.org/). Component licenses and notices remain with their respective projects.
+
+<!-- STORE-GALLERY -->
+
+## Screenshots | تصاویر برنامه
+
+App screens in English and Persian; sample content is used where needed.
+
+### English
+
+<img src="screenshots/en/01-settings-light.png" width="240" alt="video downloader en 01-settings-light" />
+<img src="screenshots/en/02-settings-dark.png" width="240" alt="video downloader en 02-settings-dark" />
+
+### فارسی
+
+<img src="screenshots/fa/01-settings-light.png" width="240" alt="video downloader fa 01-settings-light" />
+<img src="screenshots/fa/02-settings-dark.png" width="240" alt="video downloader fa 02-settings-dark" />
+
