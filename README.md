@@ -1,70 +1,49 @@
-# video downloader | دانلودر ویدیو
+# Video Downloader | دانلودر ویدیو
 
 ![Icon](icon.png)
 
-[دریافت آخرین نسخه / Download latest](https://github.com/cinaasadpour-hash/video-downloader/releases/latest)
+[Download / دریافت APK](https://github.com/cinaasadpour-hash/video-downloader/releases/tag/v1.0.5)
+
+Package: `com.sinatools.videodownloader` · Version: **1.0.5** · Version code: **6**
 
 ## فارسی
 
-لینک ویدیو یا صوت را وارد کنید، کیفیت در دسترس را انتخاب و فایل را ذخیره کنید. لینک‌های مستقیم و جریان‌های HLS و استخراج رسانه از سایت‌های پشتیبانی‌شده در دسترس‌اند. فایل‌های تکمیل‌شده در کتابخانه قابل پخش و اشتراک‌گذاری هستند.
+دانلود ویدیو و صوت از لینک‌های مستقیم و سایت‌های پشتیبانی‌شده.
 
-رابط فارسی و انگلیسی، انتخاب زبان گوشی، تم روشن و تیره یا مطابق سیستم، تنظیم دانلود فقط با وای‌فای و به‌روزرسانی موتور در تنظیمات قرار دارند. انتخاب زبان و تم پس از بستن برنامه حفظ می‌شود.
+لینک ویدیو یا صوت را وارد کنید، قالب و کیفیت در دسترس را انتخاب کنید و فایل را ذخیره کنید. لینک‌های مستقیم، جریان‌های HLS و استخراج رسانه از سایت‌های پشتیبانی‌شده در دسترس‌اند. فایل‌های تکمیل‌شده در کتابخانه قابل پخش و اشتراک‌گذاری هستند.
 
-کیفیت‌ها و امکان دانلود به سایت مبدأ، شبکه، دسترسی حساب و تغییرات سایت وابسته‌اند؛ پشتیبانی همهٔ لینک‌ها و کیفیت‌ها تضمین نمی‌شود. برای خطاهای ورود به حساب یا محدودیت موقت سایت، راهنمای برنامه را دنبال کنید.
+رابط فارسی و انگلیسی، انتخاب زبان گوشی، حالت روشن، تاریک یا مطابق سیستم و تنظیم دانلود فقط با وای‌فای در برنامه قرار دارند. انتخاب زبان و پوسته پس از بستن برنامه حفظ می‌شود.
 
-### شروع کار
-
-۱. لینک را جای‌گذاری کنید یا از برنامهٔ دیگری به دانلودر بفرستید.
-۲. «بررسی لینک» را بزنید و کیفیت ویدیو یا صوت را انتخاب کنید.
-۳. دانلود را شروع کنید و فایل تکمیل‌شده را در کتابخانه ببینید.
-
-### تبلیغات
-
-این برنامه تبلیغات تپسل دارد: بنر همسان در کتابخانه خارج از دانلود فعال، و بینابینی با فاصلهٔ زمانی پس از چند دانلود موفق و هنگام ورود کاربر به کتابخانه. نبود تبلیغ مانع دانلود یا پخش نمی‌شود. تبلیغ بینابینی هنگام اجرای دانلود در پس‌زمینه خودکار باز نمی‌شود.
+امکان دانلود و کیفیت‌ها به سایت مبدأ، شبکه، دسترسی حساب و تغییرات سایت وابسته‌اند؛ پشتیبانی همهٔ لینک‌ها تضمین نمی‌شود. تنها محتوایی را دریافت کنید که اجازهٔ دریافت و استفاده از آن را دارید.
 
 ## English
 
-Paste a video or audio link, choose an available format, and save the media. Direct links, HLS streams, and extraction from supported websites are available. Completed files can be played and shared from the library.
+Download video and audio from direct links and supported websites.
 
-Persian and English interfaces, device-language selection, light/dark/system themes, Wi-Fi-only downloading, and extractor updates are available in Settings. Language and theme choices persist after closing the app.
+Paste a video or audio link, select an available format and quality, and save the media. Direct links, HLS streams and extraction from supported websites are available. Completed files can be played and shared from Library.
 
-Available formats and successful downloads depend on the source website, network, account access, and website changes. Support for every link or quality is not guaranteed. Follow the in-app guidance when a site requests sign-in or temporarily limits requests.
+Persian and English interfaces, device-language selection, light, dark and system themes, and Wi-Fi-only downloading are available. Language and theme choices persist after closing the app.
 
-### Getting started
+Available formats and successful downloads depend on the source website, network, account access and website changes. Support for every link is not guaranteed. Download only content you have permission to obtain and use.
 
-1. Paste a link or share it to the app.
-2. Tap Find video and choose a video or audio format.
-3. Start the download and find the completed file in Library.
+## Privacy / حریم خصوصی
 
-### Advertising
+See [Privacy / حریم خصوصی](PRIVACY.md). Store listing text in both languages is available in [store-listing](store-listing).
 
-This app contains Tapsell ads: a native banner in Library outside active downloading, and a frequency-limited interstitial after several successful downloads when the user enters Library. Unavailable ads do not block downloads or playback. Background downloads never automatically open fullscreen ads.
+## Verification / بررسی
 
-## Download and updates | دریافت و به‌روزرسانی
+The signed APK was installed and launched on a Samsung Galaxy A32 with Android 13 on 2026-10-30, with existing app data preserved. The installed APK checksum matched the release file. Production Tapsell identifiers and the release certificate were checked in the APK. Detailed visual and functional coverage varies by app; this is not a guarantee of compatibility with every device or external service.
 
-Version **1.0.5** · Android **8.0+** · Package: `com.sinatools.videodownloader`
+نسخهٔ امضاشده در ۳۰ اکتبر ۲۰۲۶ روی گوشی نصب و اجرا شد و اطلاعات قبلی حفظ شد. اثرانگشت نسخهٔ نصب‌شده با فایل انتشار برابر بود. نام بسته، امضا و شناسه‌های واقعی تپسل در APK بررسی شدند. محدودهٔ آزمون هر برنامه متفاوت است و سازگاری با همهٔ دستگاه‌ها و خدمات تضمین نمی‌شود.
 
-Install updates over the existing app to retain local settings and records. این نسخه را روی نسخهٔ قبلی نصب کنید و برای حفظ اطلاعات، ابتدا برنامه را حذف نکنید.
+Components: [youtubedl-android](https://github.com/yausername/youtubedl-android), [yt-dlp](https://github.com/yt-dlp/yt-dlp), [FFmpeg](https://ffmpeg.org/). Component licenses remain applicable.
 
-[Privacy / حریم خصوصی](PRIVACY.md)
+## تصاویر برنامه
 
-## Components
+<img src="screenshots/fa/01-settings-light.png" width="230" alt="Video Downloader fa 01-settings-light" />
+<img src="screenshots/fa/02-settings-dark.png" width="230" alt="Video Downloader fa 02-settings-dark" />
 
-The app uses [youtubedl-android](https://github.com/yausername/youtubedl-android), [yt-dlp](https://github.com/yt-dlp/yt-dlp), and [FFmpeg](https://ffmpeg.org/). Component licenses and notices remain with their respective projects.
+## Screenshots
 
-<!-- STORE-GALLERY -->
-
-## Screenshots | تصاویر برنامه
-
-App screens in English and Persian; sample content is used where needed.
-
-### English
-
-<img src="screenshots/en/01-settings-light.png" width="240" alt="video downloader en 01-settings-light" />
-<img src="screenshots/en/02-settings-dark.png" width="240" alt="video downloader en 02-settings-dark" />
-
-### فارسی
-
-<img src="screenshots/fa/01-settings-light.png" width="240" alt="video downloader fa 01-settings-light" />
-<img src="screenshots/fa/02-settings-dark.png" width="240" alt="video downloader fa 02-settings-dark" />
-
+<img src="screenshots/en/01-settings-light.png" width="230" alt="Video Downloader en 01-settings-light" />
+<img src="screenshots/en/02-settings-dark.png" width="230" alt="Video Downloader en 02-settings-dark" />
