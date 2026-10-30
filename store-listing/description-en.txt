@@ -1,0 +1,5 @@
+Paste a video or audio link, select an available format and quality, and save the media. Direct links, HLS streams and extraction from supported websites are available. Completed files can be played and shared from Library.
+
+Persian and English interfaces, device-language selection, light, dark and system themes, and Wi-Fi-only downloading are available. Language and theme choices persist after closing the app.
+
+Available formats and successful downloads depend on the source website, network, account access and website changes. Support for every link is not guaranteed. Download only content you have permission to obtain and use.
